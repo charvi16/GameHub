@@ -21,10 +21,3 @@ Games Hub is a fun web application built with **React** and **Tailwind CSS**, wh
 - **JavaScript (ES6+)** – Game logic and interactivity  
 
 ---
-
-## 🛠️ Installation & Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/games-hub.git
-   cd games-hub
